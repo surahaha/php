@@ -33,6 +33,9 @@
                     <option value="ニューヨーク">ニューヨーク</option>
                 </select>
             </div>
+            <div class="search-form__button">
+                <button class="search-form__button-submit" type="submit">検索</button>
+            </div>
         </form>
     </main>
 </body>
